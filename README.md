@@ -1,15 +1,21 @@
 ---
 datapackage:
-  title: Welcome to your template dataset page!
-  description: This is a template for publishing your dataset with Datahub Cloud.
+  title: pathshala hub
+  description: Welcome to the Pathshala Hub Blog – your go-to resource for expert guidance on education and career success. Explore tips on studying abroad, securing direct MBA admissions, and navigating academic opportunities. Stay informed with the latest updates, insights, and resources tailored to help you achieve your dreams!
   created: 2024-01-01
   updated: 2024-01-31
   licenses:
   - path: http://opendatacommons.org/licenses/pddl/
-    title: Open Data Commons Public Domain Dedication and License v1.0
+    title:Why Choose Pathshala Hub?
+At Pathshala Hub, we are dedicated to helping students achieve their academic and professional dreams. Our services are tailored to meet individual needs, offering expert guidance in course selection, admissions, and career planning.
+
+
   sources:
   - path: http://link.to/data/source
-    title: Link to data source
+    title: Unlocking Your Future: Pathshala Hub – Your Trusted Partner for Academic and Career Success
+
+Are you dreaming of a rewarding career but unsure where to start? Whether pursuing higher education abroad, securing direct MBA admissions, or finding the best consulting company near you, Pathshala Hub is here to turn your aspirations into reality.
+
   resources:
   - name: c02-per-decade
     title: C02 PPM per decade
@@ -20,7 +26,11 @@ datapackage:
 
 <div class="hero">
     <h1 class="hero-title">Readme.md content<br/></h1>
-    <p class="hero-description">Welcome to the body of your site. Everything above this section is part of the Data package front matter. I am adding here markdown text and other data-rich elements and they render beautifully.</p>
+    <p class="hero-description">Here’s why we stand out:
+
+Comprehensive Guidance: From selecting the right college to navigating application processes, our consultants provide end-to-end support.
+Personalized Solutions: We focus on your unique strengths, preferences, and goals to design a plan that works best for you.
+.</p>
 </div>
 
 
@@ -51,17 +61,22 @@ This is the frontmatter in this README.md:
 ```
 ---
 datapackage:
-  title: Welcome to your template dataset page!
-  description: This is a template for publishing your dataset with Datahub Cloud.
+  title: Requirements to Study Abroad After 12th
+
+  description:Global Reach: With strong ties to top universities and institutions worldwide, we simplify the process of studying abroad.
+Requirements to Study Abroad After 12th
+Studying abroad after 12th grade is a fantastic way to gain global exposure and quality education. However, the process can be daunting without proper guidance. Here’s what you need to know:
+
+
   created: 2024-01-01
   updated: 2024-01-31
   licenses:
   - path: http://opendatacommons.org/licenses/pddl/
-    title: Open Data Commons Public Domain Dedication and License v1.0
+    title: Choose the Right Course and Country
   sources:
   - path: http://link.to/data/source
-    title: Link to data source
-  resources:
+    title: Decide on a course that aligns with your career aspirations. Popular destinations like the USA, UK, Canada, and Australia offer a wide range of programs, from engineering and business to arts and sciences.
+
   - name: c02-per-decade
     title: C02 PPM per decade
     description: C02 PPM per decade
